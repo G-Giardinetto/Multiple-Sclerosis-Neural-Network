@@ -1,9 +1,9 @@
 # Machine Learning for classifying Multiple Sclerosis
 
- In this project, I'm using the Pytorch model for classifying images from a kaggle dataset, \
- the objective of this project is create a *POC* (Proof-Of-Concept) system
- that could help in the diagnosis of a specific neurodegenerative condition like Multiple Sclerosis.\
- The inference will be conduct by a Neural Network\
+
+In this project, I'm using the Pytorch model for classifying images from a kaggle dataset, \
+the objective of this project is to create a *POC* (Proof-Of-Concept) system that could help in the diagnosis of a specific neurodegenerative condition like Multiple Sclerosis.\
+ The inference will be conducted by a Neural Network\
  From now on, the term `MS` will substitute `Multiple Sclerosis`  
 ---
 ### Dataset
@@ -19,7 +19,7 @@ For each of these two conditions, the MRIs are divided in:
 1. Sagittal MRIs (Total: 774)
 2. Axial MRIs (Total: 1652)
 
-This particular dataset was used in the study conduct by 
+This particular dataset was used in the study conducted by 
 _Macin, G.; Tasci, B.; Tasci, I.; Faust, O.; Barua, P.D.;
 Dogan, S.; Tuncer, T.; Tan, R.-S.; Acharya, U.R._
 
